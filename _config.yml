@@ -1,0 +1,8 @@
+title: Centrality-Constrained Graph Embedding
+description: Technical guide, algorithm implementations, and visualization of the centrality-constrained MDS graph drawing algorithm.
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics:
+
+# MathJax configuration for rendering equations
+mathjax: true
